@@ -8,5 +8,5 @@ It iterates over every Entry in the Database and checks if the new tweetid diffe
 
 ![Database](https://i.imgur.com/RqZFuoO.png)
 
-You could get the twitteruserid by simply using the API every time but we only have a limited amount of API calls per Month
+You could get the twitteruserid by simply using the API but we only have a limited amount of API calls per Month
 thats why i use a tool like https://tweeterid.com/ 
